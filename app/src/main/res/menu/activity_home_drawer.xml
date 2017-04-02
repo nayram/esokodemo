@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_users"
+            android:icon="@drawable/ic_action_user"
+            android:title="Users" />
+        <item
+            android:id="@+id/nav_resource"
+            android:icon="@drawable/ic_action_resource"
+            android:title="Resources" />
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@drawable/ic_action_fav"
+            android:title="Favourites" />
+
+    </group>
+
+
+</menu>
